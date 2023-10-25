@@ -1,0 +1,31 @@
+
+
+body {
+    box-sizing: border-box;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+div {
+    width: 100%;
+    text-align: left;
+    margin-top: 100px;
+    margin-right: 30px;
+    border-top: 2px solid greenyellow;
+}
+
+
+h1 {
+    font-family: 'Creepster', sans-serif;
+    font-size: 75px;
+    color: greenyellow;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
